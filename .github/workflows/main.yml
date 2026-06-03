@@ -299,7 +299,7 @@ jobs:
 
               print("📤 جاري النشر على Telegram...", flush=True)
               formatted_title = f"مسلسل {title} مدبلج كامل بالعربي"
-              caption = f"🎬 {formatted_title}\n\nشاهد المسلسل كامل من هنا 👇👇👇👇👇\n\n https://www.effectivecpmnetwork.com/ufju1mia?key=6ffb6cd2ffdd560a90ca413951784d10 \n\n📝 {desc}"
+              caption = f"🎬 {formatted_title}\n\nشاهد المسلسل كامل من هنا 👇👇👇👇👇\n\n https://www.effectivecpmnetwork.com/ufju1mia?key=6ffb6cd2ffdd560a90ca413951784d10\n\n📝 {desc}"
               if telegraph_url:
                   caption += f"\n\n"
 
